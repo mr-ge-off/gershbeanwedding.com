@@ -18,7 +18,7 @@ on October 8th, 2022
 
 ## where
 
-in Tower Grove Park in Saint Louis, Missouri
+in Tower Grove Park in Saint Louis, Missouri.
 
 ## why
 
@@ -32,4 +32,4 @@ Kaley said, hey, it's alright, because Kaley was making more money than Aaron pe
 
 More information to come soon.
 
-![a 90s inspired gif of a construction worker digging in a pile of dirt](assets/site-under-construction-gif.gif)
+<!-- ![a 90s inspired gif of a construction worker digging in a pile of dirt](assets/site-under-construction-gif.gif) -->
