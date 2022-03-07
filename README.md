@@ -1,45 +1,35 @@
-hello
+# gershbeanwedding.com
 
-<!-- # gershbeanwedding.com -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
+</p>
 
 ## who
 
-erin and blaylee
+Kaley Bean and Aaron Gershman
 
 ## what
 
-we're getting married
+are getting married
 
 ## when
 
-october 8th, 2022
+on October 8th, 2022
 
 ## where
 
-saint louis
+in Tower Grove Park in Saint Louis, Missouri
 
 ## why
 
-as interns, Erin asked Blaylee out on a date.
+As college interns, Aaron asked Kaley out on a date.
 
-Erin's credit card was declined, and Blaylee had to pay.
+Aaron's credit card was declined, and Kaley had to pay.
 
-that's when Blaylee said it was alright, because Blaylee was making more money than Erin per hour as part of the _same internship_.
+Kaley said, hey, it's alright, because Kaley was making more money than Aaron per hour as part of the _same internship_.
 
-<h2 align="center">and HOW</h2>
+## and how
 
-come downn
-
-to
-
-party town
-
-<p align="center">This page is under construction</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/site-under-construction-gif.gif" alt="a 90s inspired gif of a construction worker digging in a pile of dirt"/>
-</p>
-
-Spacing
+More information to come soon.
 
 ![a 90s inspired gif of a construction worker digging in a pile of dirt](assets/site-under-construction-gif.gif)
