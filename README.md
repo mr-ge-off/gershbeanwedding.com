@@ -1,7 +1,7 @@
 # gershbeanwedding.com
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
+  <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/gershbean-proposal.jpeg" alt="Aaron and Kaley together with Kaley holding up an engagement ring"/>
 </p>
 
 ## who
@@ -32,4 +32,6 @@ Kaley said, hey, it's alright, because Kaley was making more money than Aaron pe
 
 More information to come soon.
 
-<!-- ![a 90s inspired gif of a construction worker digging in a pile of dirt](assets/site-under-construction-gif.gif) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
+</p>
