@@ -16,6 +16,13 @@ are getting married
 
 on October 8th, 2022
 
+rough timelines (central standard time):
+
+- 6:30pm, ceremony
+- 7pm-8pm, social hour (open bar which goes nearly to the end of the night, that type of dealio)
+- 8pm, dinner + cake
+- 8pm-11pm, more open bar, social, dancing, dj, that type of thing. did I mention the open bar?
+
 ## where
 
 in Tower Grove Park in Saint Louis, Missouri.
