@@ -23,6 +23,8 @@ rough timelines (central standard time):
 - 8pm, dinner + cake
 - 8pm-11pm, more open bar, social, dancing, dj, that type of thing. did I mention the open bar?
 
+<!-- Note, the venue has free-floating time of ~2 hours before and after. This shouldn't matter to anyone, I'm just putting it here for my own note-keeping. -->
+
 ## where
 
 in Tower Grove Park in Saint Louis, Missouri.
