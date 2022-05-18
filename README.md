@@ -43,6 +43,16 @@ Kaley said, hey, it's alright, because Kaley was making more money than Aaron pe
 
 More information to come soon.
 
+### hotels
+
+Need a hotel? Perfect, [click here on this link to use a discount code we got for Home2 Suites by Hilton for October 7th to October 9th at $189/night](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=STLFPHT&arrivalDate=2022-10-07&departureDate=2022-10-09&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink).
+
+Home2 Suites location:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12467.081758666945!2d-90.2603728!3d38.6311618!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x36a8d0b1d89c436c!2sHome2%20Suites%20by%20Hilton%20St.%20Louis%2FForest%20Park!5e0!3m2!1sen!2sus!4v1652862109581!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+You don't _have_ to use this hotel. But, hey, it's good accomodation with a good location. And, for real, the discount code works. Just use the link above to reserve your room with it. Let us know if you have any problems, we'll help get it sorted out.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
 </p>
