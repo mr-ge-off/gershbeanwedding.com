@@ -29,7 +29,9 @@ rough timelines (central standard time):
 
 in Tower Grove Park in Saint Louis, Missouri.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12471.718672943336!2d-90.244343!3d38.604489!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8c7cf07acb84bc89!2sStupp%20Center!5e0!3m2!1sen!2sus!4v1652863066940!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p align="center">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12471.718672943336!2d-90.244343!3d38.604489!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8c7cf07acb84bc89!2sStupp%20Center!5e0!3m2!1sen!2sus!4v1652863066940!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</p>
 
 ## why
 
@@ -49,7 +51,9 @@ Need a hotel? Perfect, [click here on this link to use a discount code we got fo
 
 Home2 Suites location:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24934.163447775907!2d-90.260373!3d38.631162!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x36a8d0b1d89c436c!2sHome2%20Suites%20by%20Hilton%20St.%20Louis%2FForest%20Park!5e0!3m2!1sen!2sus!4v1652863037822!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p align="center">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24934.163447775907!2d-90.260373!3d38.631162!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x36a8d0b1d89c436c!2sHome2%20Suites%20by%20Hilton%20St.%20Louis%2FForest%20Park!5e0!3m2!1sen!2sus!4v1652863037822!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</p>
 
 You don't _have_ to use this hotel. But, hey, it's good accomodation with a good location. And, for real, the discount code works. Just use the link above to reserve your room with it. Let us know if you have any problems, we'll help get it sorted out.
 
