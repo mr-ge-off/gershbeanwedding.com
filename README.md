@@ -45,7 +45,7 @@ More information to come soon.
 
 ### hotels
 
-Need a hotel? Perfect, [click here on this link to use a discount code we got for Home2 Suites by Hilton for October 7th to October 9th at $189/night](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=STLFPHT&arrivalDate=2022-10-07&departureDate=2022-10-09&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink).
+Need a hotel? Perfect, [click here on this link to use a discount code we got for Home2 Suites by Hilton for October 7th to October 9th at $189/night](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hilton.com%2Fen%2Fbook%2Freservation%2Fdeeplink%2F%3Fctyhocn%3DSTLFPHT%26groupCode%3DCHTGER%26arrivaldate%3D2022-10-07%26departuredate%3D2022-10-09%26cid%3DOM%2CWW%2CHILTONLINK%2CEN%2CDirectLink%26fromId%3DHILTONLINKDIRECT&data=05%7C01%7C%7Cedce5f7d2c7e46b18cad08da3789247a%7Ce00122f361ca4b09b7eeb3b8305e46fe%7C0%7C0%7C637883359412859302%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iaB%2BM2RWtR9KW4Bhz7g1z%2B6rU9ftFiaNQ1hqMHhoTBQ%3D&reserved=0).
 
 Home2 Suites location:
 
