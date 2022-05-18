@@ -53,6 +53,18 @@ Home2 Suites location:
 
 You don't _have_ to use this hotel. But, hey, it's good accomodation with a good location. And, for real, the discount code works. Just use the link above to reserve your room with it. Let us know if you have any problems, we'll help get it sorted out.
 
+## rsvp
+
+More information to come soon.
+
+## registry
+
+More information to come soon.
+
+## things to do while you're here
+
+More information to come soon.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
 </p>
