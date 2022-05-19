@@ -27,7 +27,13 @@ rough timelines (central standard time):
 
 ## where
 
-in Tower Grove Park in Saint Louis, Missouri.
+at the [Stupp Center](https://www.towergrovepark.org/stupp-center1) in [Tower Grove Park](https://www.towergrovepark.org/blog/2020/3/30/tower-grove-park-renovates-stupp-center-with-gender-inclusive-restrooms-and-catering-kitchen) in Saint Louis, Missouri.
+
+```txt
+Stupp Center
+3616 Southeast Dr
+St. Louis, MO 63110
+```
 
 <p align="center">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12471.718672943336!2d-90.244343!3d38.604489!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8c7cf07acb84bc89!2sStupp%20Center!5e0!3m2!1sen!2sus!4v1652863066940!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
