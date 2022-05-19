@@ -61,6 +61,10 @@ You don't _have_ to use this hotel. But, hey, it's good accomodation with a good
 
 More information to come soon.
 
+## dress code
+
+More information to come soon.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
 </p>
