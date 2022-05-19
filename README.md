@@ -53,9 +53,13 @@ More information to come soon.
 
 ### hotels
 
-Need a hotel? Perfect, [click here on this link to use a discount code we got for Home2 Suites by Hilton for October 7th to October 9th at $189/night](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hilton.com%2Fen%2Fbook%2Freservation%2Fdeeplink%2F%3Fctyhocn%3DSTLFPHT%26groupCode%3DCHTGER%26arrivaldate%3D2022-10-07%26departuredate%3D2022-10-09%26cid%3DOM%2CWW%2CHILTONLINK%2CEN%2CDirectLink%26fromId%3DHILTONLINKDIRECT&data=05%7C01%7C%7Cedce5f7d2c7e46b18cad08da3789247a%7Ce00122f361ca4b09b7eeb3b8305e46fe%7C0%7C0%7C637883359412859302%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iaB%2BM2RWtR9KW4Bhz7g1z%2B6rU9ftFiaNQ1hqMHhoTBQ%3D&reserved=0).
+Need a hotel? Perfect, [click here on this link to use a discount code we got for Home2 Suites by Hilton near Forest Park for October 7th to October 9th at $189/night](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hilton.com%2Fen%2Fbook%2Freservation%2Fdeeplink%2F%3Fctyhocn%3DSTLFPHT%26groupCode%3DCHTGER%26arrivaldate%3D2022-10-07%26departuredate%3D2022-10-09%26cid%3DOM%2CWW%2CHILTONLINK%2CEN%2CDirectLink%26fromId%3DHILTONLINKDIRECT&data=05%7C01%7C%7Cedce5f7d2c7e46b18cad08da3789247a%7Ce00122f361ca4b09b7eeb3b8305e46fe%7C0%7C0%7C637883359412859302%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iaB%2BM2RWtR9KW4Bhz7g1z%2B6rU9ftFiaNQ1hqMHhoTBQ%3D&reserved=0).
 
-Home2 Suites location:
+```txt
+Home2 Suites by Hilton
+920 S Taylor Ave
+St. Louis, MO 63110
+```
 
 <p align="center">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24934.163447775907!2d-90.260373!3d38.631162!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x36a8d0b1d89c436c!2sHome2%20Suites%20by%20Hilton%20St.%20Louis%2FForest%20Park!5e0!3m2!1sen!2sus!4v1652863037822!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
