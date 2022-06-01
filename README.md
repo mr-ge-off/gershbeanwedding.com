@@ -69,7 +69,7 @@ You don't _have_ to use this hotel. But, hey, it's good accomodation with a good
 
 ## rsvp
 
-https://gershbeanwedding.anrsvp.com/#home
+[https://gershbeanwedding.anrsvp.com/#home](https://gershbeanwedding.anrsvp.com/#home)
 
 ## dress code
 
