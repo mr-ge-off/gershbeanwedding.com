@@ -81,7 +81,9 @@ More information to come soon.
 
 ### contact us
 
-If you have other questions, definitely please ask! <a href="mailto:aegershman@gmail.com?cc=beankaley@gmail.com&subject=gershbeanwedding question&body=Ask us anything">Click here to email us at aegershman@gmail.com and/or beankaley@gmail.com</a>
+If you have other questions, definitely please ask!
+
+<a href="mailto:aegershman@gmail.com?cc=beankaley@gmail.com&subject=gershbeanwedding question&body=Ask us anything">Click here to email us at aegershman@gmail.com and/or beankaley@gmail.com</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
