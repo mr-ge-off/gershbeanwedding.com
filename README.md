@@ -1,12 +1,8 @@
 # gershbeanwedding.com
 
-## rsvp
-
-<p align="center">
-  <h1>
-    <a href="https://gershbeanwedding.anrsvp.com/#home">Click here to RSVP</a>
-  </h1>
-</p>
+<h1 align="center">
+  <a href="https://gershbeanwedding.anrsvp.com/#home">Click here to RSVP</a>
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/gershbean-proposal.jpeg" alt="Aaron and Kaley together with Kaley holding up an engagement ring"/>
