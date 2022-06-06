@@ -1,7 +1,11 @@
 # gershbeanwedding.com
 
+<p align="center">
+  (It's all good, you're at the correct place!)
+</p>
+
 <h1 align="center">
-  <a href="https://gershbeanwedding.anrsvp.com/#home">Click here to RSVP</a>
+  <a href="https://gershbeanwedding.anrsvp.com/#home">Click here to RSVP!</a>
 </h1>
 
 <p align="center">
@@ -53,7 +57,7 @@ Kaley said, hey, it's alright, because Kaley was making more money than Aaron pe
 
 ## and how
 
-More information to come soon.
+Here are some helpful details about the wedding weekend.
 
 ### hotels
 
@@ -71,9 +75,13 @@ St. Louis, MO 63110
 
 You don't _have_ to use this hotel. But, hey, it's good accomodation with a good location. And, for real, the discount code works. Just use the link above to reserve your room with it. Let us know if you have any problems, we'll help get it sorted out.
 
-## dress code
+### dress code
 
 More information to come soon.
+
+### contact us
+
+If you have other questions, definitely please ask! <a href="mailto:aegershman@gmail.com?cc=beankaley@gmail.com&subject=gershbeanwedding question&body=Ask us anything">Click here to email us at aegershman@gmail.com and/or beankaley@gmail.com</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/halloween-slugs.jpeg" alt="Aaron and Kaley dressed in homemade snail costumes for Halloween"/>
