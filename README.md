@@ -1,5 +1,13 @@
 # gershbeanwedding.com
 
+## rsvp
+
+<p align="center">
+  <h1>
+    <a href="https://gershbeanwedding.anrsvp.com/#home">Click here to RSVP</a>
+  </h1>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/gershbean-proposal.jpeg" alt="Aaron and Kaley together with Kaley holding up an engagement ring"/>
 </p>
@@ -66,10 +74,6 @@ St. Louis, MO 63110
 </p>
 
 You don't _have_ to use this hotel. But, hey, it's good accomodation with a good location. And, for real, the discount code works. Just use the link above to reserve your room with it. Let us know if you have any problems, we'll help get it sorted out.
-
-## rsvp
-
-[https://gershbeanwedding.anrsvp.com/#home](https://gershbeanwedding.anrsvp.com/#home)
 
 ## dress code
 
