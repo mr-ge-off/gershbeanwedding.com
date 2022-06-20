@@ -11,7 +11,7 @@
 <p align="center">
   <iframe
     src="https://gershbeanwedding.anrsvp.com/?embed=true"
-    style="display:block;border:none;overflow:hidden;"
+    style="border:0;overflow:hidden;"
     height="600"
     width="450"
   ></iframe>
