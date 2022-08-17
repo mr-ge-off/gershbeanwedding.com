@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CROSSFIRE>
+    <VERSION>1</VERSION>
+    <TITLE/>
+    <AUTHOR/>
+    <COPYRIGHT/>
+    <GRID width="10">
+MAMMA.BEAN
+ONION.ANNA
+WEDDINGDAY
+EASE.YES..
+DRT.ASL...
+...ORE.SPA
+..INC.SNOG
+CUTTHECAKE
+ASEA.TAKEN
+RAMP.CREST
+</GRID>
+    <WORDS>
+        <WORD dir="ACROSS" id="0" isTheme="false" num="1">Jukebox musical that culminates with a wedding: "_____ Mia!"</WORD>
+        <WORD dir="ACROSS" id="1" isTheme="false" num="6">Author of this puzzle</WORD>
+        <WORD dir="ACROSS" id="2" isTheme="false" num="10">Pungent burger topping</WORD>
+        <WORD dir="ACROSS" id="3" isTheme="false" num="11">Comedic actress Kendrick, not to be confused with 8-down</WORD>
+        <WORD dir="ACROSS" id="4" isTheme="false" num="12">Today, for Kaley and Aaron</WORD>
+        <WORD dir="ACROSS" id="5" isTheme="false" num="14">Lessen</WORD>
+        <WORD dir="ACROSS" id="6" isTheme="false" num="15">What Kaley said when Aaron proposed</WORD>
+        <WORD dir="ACROSS" id="7" isTheme="false" num="16">If the star of the A-Team went to grad school</WORD>
+        <WORD dir="ACROSS" id="8" isTheme="false" num="17">Talking with one's hand, say (abbr.)</WORD>
+        <WORD dir="ACROSS" id="9" isTheme="false" num="18">Unrefined product of mining</WORD>
+        <WORD dir="ACROSS" id="10" isTheme="false" num="19">Historic Formula 1 circuit whose 2021 race was infamously rained out</WORD>
+        <WORD dir="ACROSS" id="11" isTheme="false" num="22">2001 Pixar movie: "Monsters, ___"</WORD>
+        <WORD dir="ACROSS" id="12" isTheme="false" num="23">Kiss, across the pond</WORD>
+        <WORD dir="ACROSS" id="13" isTheme="false" num="24">Average White Band hit, or something to do on your 12-across</WORD>
+        <WORD dir="ACROSS" id="14" isTheme="false" num="27">On the job, as a sailor</WORD>
+        <WORD dir="ACROSS" id="15" isTheme="false" num="28">No longer on the market</WORD>
+        <WORD dir="ACROSS" id="16" isTheme="false" num="29">ADA accommodation</WORD>
+        <WORD dir="ACROSS" id="17" isTheme="false" num="30">Tube you'll want before a smooch</WORD>
+        <WORD dir="DOWN" id="18" isTheme="false" num="1">Cut the grass</WORD>
+        <WORD dir="DOWN" id="20" isTheme="false" num="2">A good listener is happy to lend one</WORD>
+        <WORD dir="DOWN" id="22" isTheme="false" num="3">Right in the middle of</WORD>
+        <WORD dir="DOWN" id="24" isTheme="false" num="4">Most common number in a data set</WORD>
+        <WORD dir="DOWN" id="26" isTheme="false" num="5">Nickname from the Star Wars prequels (or Kaley's childhood cat)</WORD>
+        <WORD dir="DOWN" id="30" isTheme="false" num="6">Aaron's favorite morning snack with cream cheese</WORD>
+        <WORD dir="DOWN" id="32" isTheme="false" num="7">They justify the means</WORD>
+        <WORD dir="DOWN" id="34" isTheme="false" num="8">Comedic actress Gasteyer, not to be confused with 11-across</WORD>
+        <WORD dir="DOWN" id="36" isTheme="false" num="9">"All opposed?"</WORD>
+        <WORD dir="DOWN" id="28" isTheme="false" num="13">Big Apple hub for buying and selling</WORD>
+        <WORD dir="DOWN" id="27" isTheme="false" num="17">St. Louis icon</WORD>
+        <WORD dir="DOWN" id="25" isTheme="false" num="18">Beer from a keg</WORD>
+        <WORD dir="DOWN" id="33" isTheme="false" num="19">Reptile in the grass</WORD>
+        <WORD dir="DOWN" id="35" isTheme="false" num="20">Pesters</WORD>
+        <WORD dir="DOWN" id="37" isTheme="false" num="21">Animal Crossing squirrel "___ S"</WORD>
+        <WORD dir="DOWN" id="23" isTheme="false" num="22">Magazine-speak for a couple</WORD>
+        <WORD dir="DOWN" id="31" isTheme="false" num="23">Leave a mark</WORD>
+        <WORD dir="DOWN" id="19" isTheme="false" num="24">Cans may be tied to it for the end of a reception</WORD>
+        <WORD dir="DOWN" id="21" isTheme="false" num="25">This land is my land</WORD>
+        <WORD dir="DOWN" id="29" isTheme="false" num="26">All the rest</WORD>
+    </WORDS>
+    <NOTES/>
+</CROSSFIRE>
