@@ -1,23 +1,6 @@
 # gershbeanwedding.com
 
 <p align="center">
-  (It's all good, you're at the correct place!)
-</p>
-
-<h1 align="center">
-  <a href="https://gershbeanwedding.anrsvp.com/#home">Click here to RSVP!</a>
-</h1>
-
-<!-- <p align="center">
-  <iframe
-    src="https://gershbeanwedding.anrsvp.com/?embed=true"
-    style="border:0;overflow:hidden;"
-    height="600"
-    width="450"
-  ></iframe>
-</p> -->
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/gershbean/gershbeanwedding.com/main/assets/gershbean-proposal.jpeg" alt="Aaron and Kaley together with Kaley holding up an engagement ring"/>
 </p>
 
