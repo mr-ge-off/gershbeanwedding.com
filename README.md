@@ -71,6 +71,14 @@ You don't _have_ to use this hotel. But, hey, it's good accomodation with a good
 
 More information to come soon.
 
+### will Kaley change her name?
+
+Nope! Keeping it Bean.
+
+### will Aaron change his name?
+
+Nope! Keeping it Gershman.
+
 ### contact us
 
 If you have other questions, definitely please ask!
